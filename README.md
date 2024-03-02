@@ -18,7 +18,7 @@ if m=="R":
 
     elif r=='Y':
      hr=float(input("Enter how many 'RUPEES' would  you want to convert into 'YEN':")) 
-     ry=hr*1.65
+     ry=hr*	1.81205
      print(hr,"RUPEES =",ry,"YEN")
 
 
@@ -34,13 +34,13 @@ elif m=='D':
   
     if d=='R':
      hd=float(input("Enter how many 'DOLLARS' would  you want to convert into 'RUPEES':")) 
-     dr=hd*82.24
+     dr=hd*82.85
      print(hd,"DOLLARS =",dr,"RUPEES")
 
 
     elif d=='Y':
      hd=float(input("Enter how many 'DOLLARS' would  you want to convert into 'YEN':")) 
-     dy=hd*136.76
+     dy=hd*150.10
      print(hd,"DOLLARS =",dy,"YEN")
 
 #converting YEN into RUPEES and DOLLARS 
@@ -56,13 +56,13 @@ elif m=='Y':
     
     if y=='R': 
      hy=float(input("Enter how many 'YEN' would  you want to convert into 'RUPEES':")) 
-     yr=hy*0.60
+     yr=hy*0.55
      print(hy,"YEN =",yr,"RUPEES")
 
 
     elif y=='D': 
      hy=float(input("Enter how many 'YEN' would  you want to convert into 'DOLLARS':")) 
-     yd=hy*0.0073
+     yd=hy*0.0067
      print(hy,"YEN =",yd,"DOLLARS")
 
 
