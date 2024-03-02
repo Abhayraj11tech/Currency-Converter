@@ -1,7 +1,3 @@
-//Currency-Converter
-//Python based project on converting currency
-
-
 print("1.Enter 'R' for 'RUPEES' ")
 print("2.Enter 'D' for 'DOLLARS' ")
 print("3.Enter 'Y' for 'YEN' ")
@@ -80,3 +76,5 @@ else:
         
 
     
+
+
